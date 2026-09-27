@@ -1,239 +1,225 @@
-clea<div align="center">
+<div align="center">
 
-<img src="./assets/terminal404-logo.png" alt="Terminal 404" width="220">
+<img src="./assets/terminal404-logo.png" alt="Terminal 404" width="210">
 
-# TERMINAL 404
+TERMINAL 404
 
-### Engenharia Digital para Web, Software e Negócios
+Tecnologia para Web, Software e Produtos Digitais
 
-**Back-end • Front-end • Banco de Dados • Sites • Aplicativos • Sistemas • Soluções para Empresas**
+Front-end • Back-end • SaaS • Aplicativos • DevOps • Sistemas
 
 <br>
 
-![Terminal 404](https://img.shields.io/badge/TERMINAL%20404-08090C?style=for-the-badge&logo=terminal&logoColor=00E5FF)
-![Web](https://img.shields.io/badge/WEB-08090C?style=for-the-badge&logo=googlechrome&logoColor=00E5FF)
-![Software](https://img.shields.io/badge/SOFTWARE-08090C?style=for-the-badge&logo=code&logoColor=148BFF)
-![SaaS](https://img.shields.io/badge/SAAS-08090C?style=for-the-badge&logo=cloudflare&logoColor=00E5FF)
-![Apps](https://img.shields.io/badge/APPLICATIONS-08090C?style=for-the-badge&logo=android&logoColor=FF00AA)
-![Business](https://img.shields.io/badge/BUSINESS-08090C?style=for-the-badge&logo=briefcase&logoColor=148BFF)
+<a href="https://terminal404.com.br">
+  <img src="https://img.shields.io/badge/WEBSITE-03E9FB?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website">
+</a>
+<a href="https://github.com/Terminal404stack">
+  <img src="https://img.shields.io/badge/GITHUB-04CEF1?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
+</a>
 
 </div>
 
----
+Quem somos
 
-## Sobre a Terminal 404
+A Terminal 404 é uma empresa de tecnologia focada no desenvolvimento de sites, aplicações web, sistemas, SaaS e aplicativos.
 
-A **Terminal 404** é uma empresa de tecnologia e desenvolvimento de software voltada à criação de soluções digitais sob medida para empresas, profissionais e projetos em crescimento.
+Construímos soluções digitais de ponta a ponta, conectando interface, lógica de negócio, dados e infraestrutura em projetos pensados para uso real e evolução contínua.
 
-Atuamos da concepção à operação da solução: planejamento, arquitetura, desenvolvimento, integração, banco de dados, publicação, manutenção e evolução contínua.
+Nosso trabalho pode começar em uma landing page, crescer para uma aplicação completa e chegar a uma operação com APIs, banco de dados, automação e infraestrutura própria.
 
-Nosso objetivo é transformar necessidades de negócio em **produtos digitais funcionais, seguros, escaláveis e sustentáveis tecnicamente**.
+O que desenvolvemos
 
----
+<table>
+<tr>
+<td width="50%">
 
-## O que desenvolvemos
+🌐 Front-end
 
-| Área | Soluções |
-|---|---|
-| **Front-end** | Interfaces web, landing pages, sites institucionais, dashboards e aplicações responsivas |
-| **Back-end** | APIs, serviços, regras de negócio, autenticação, integrações e sistemas distribuídos |
-| **Banco de Dados** | Modelagem, relacionamentos, migrations, consultas, integridade e organização de dados |
-| **Sites** | Sites institucionais, páginas comerciais, sistemas administrativos e experiências digitais personalizadas |
-| **Aplicativos** | Aplicações e produtos digitais orientados às necessidades do projeto e do negócio |
-| **Sistemas Empresariais** | Ferramentas internas, automações, painéis, fluxos operacionais e sistemas sob medida |
-| **Infraestrutura** | Deploy, servidores Linux, serviços, HTTPS, monitoramento e organização de ambientes |
-| **Projetos de Negócio** | Soluções digitais planejadas de acordo com objetivos, processos e necessidades específicas da empresa |
+Interfaces modernas, responsivas e orientadas à experiência do usuário.
 
----
+Tecnologias
 
-## Engenharia de Software
+HTML
 
-Na Terminal 404, desenvolvimento não significa apenas escrever código.
+CSS
 
-Cada projeto é tratado como uma solução completa, considerando:
+JavaScript
 
-```text
-NEGÓCIO
-   ↓
-LEVANTAMENTO DE NECESSIDADES
-   ↓
-ARQUITETURA E PLANEJAMENTO
-   ↓
-UX / INTERFACE / FLUXOS
-   ↓
-FRONT-END + BACK-END
-   ↓
-BANCO DE DADOS + INTEGRAÇÕES
-   ↓
-TESTES E VALIDAÇÃO
-   ↓
-DEPLOY E INFRAESTRUTURA
-   ↓
-MONITORAMENTO
-   ↓
-MANUTENÇÃO E EVOLUÇÃO
-```
+</td>
+<td width="50%">
 
-A tecnologia deve servir ao negócio — e não o contrário.
+⚙️ Back-end
 
----
+APIs, regras de negócio, integrações, autenticação e serviços.
 
-## Tecnologia
+Tecnologias
 
-Nossa stack é definida de acordo com o problema, os requisitos do projeto e a necessidade de manutenção futura.
+PHP
 
-### Web & Front-end
+Java
 
-![HTML5](https://img.shields.io/badge/HTML5-08090C?style=for-the-badge&logo=html5&logoColor=00E5FF)
-![CSS3](https://img.shields.io/badge/CSS3-08090C?style=for-the-badge&logo=css3&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-08090C?style=for-the-badge&logo=javascript&logoColor=FF00AA)
-![TypeScript](https://img.shields.io/badge/TypeScript-08090C?style=for-the-badge&logo=typescript&logoColor=148BFF)
+Go
 
-### Back-end & Sistemas
+Node.js
 
-![Node.js](https://img.shields.io/badge/Node.js-08090C?style=for-the-badge&logo=node.js&logoColor=00E5FF)
-![Go](https://img.shields.io/badge/Go-08090C?style=for-the-badge&logo=go&logoColor=00E5FF)
-![REST API](https://img.shields.io/badge/REST%20API-08090C?style=for-the-badge&logo=fastapi&logoColor=FF00AA)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Dados
+☁️ DevOps & Infraestrutura
 
-![MySQL](https://img.shields.io/badge/MySQL-08090C?style=for-the-badge&logo=mysql&logoColor=00E5FF)
-![SQL](https://img.shields.io/badge/SQL-08090C?style=for-the-badge&logo=databricks&logoColor=148BFF)
+Ambientes de desenvolvimento, deploy e operação de aplicações.
 
-### Infraestrutura & Operação
+Ferramentas
 
-![Linux](https://img.shields.io/badge/Linux-08090C?style=for-the-badge&logo=linux&logoColor=FF00AA)
-![Git](https://img.shields.io/badge/Git-08090C?style=for-the-badge&logo=git&logoColor=00E5FF)
-![GitHub](https://img.shields.io/badge/GitHub-08090C?style=for-the-badge&logo=github&logoColor=FFFFFF)
+Podman
 
-> A lista acima representa tecnologias utilizadas ou consideradas conforme o contexto de cada projeto. A arquitetura final é definida individualmente.
+Linux
 
----
+Git
 
-## Desenvolvimento orientado a negócios
+GitHub
 
-Projetos empresariais precisam resolver problemas reais.
+</td>
+<td width="50%">
 
-Por isso, buscamos alinhar tecnologia com:
+📱 Produtos Digitais
 
-- objetivos operacionais e comerciais;
-- experiência do usuário;
-- segurança e controle de acesso;
-- organização e confiabilidade dos dados;
-- desempenho e capacidade de crescimento;
-- facilidade de manutenção;
-- integração com serviços existentes;
-- evolução futura do produto.
+Desenvolvimento de produtos sob medida para empresas e projetos digitais.
 
-O resultado esperado não é apenas um sistema funcionando, mas uma **base tecnológica que acompanhe a evolução do negócio**.
+Atuação
 
----
+Sites
 
-## Nossos projetos podem envolver
+Sistemas web
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       TERMINAL 404                           │
-├──────────────────────────────────────────────────────────────┤
-│  Sites                 │  Aplicações Web                    │
-│  APIs                  │  Aplicativos                       │
-│  Sistemas internos     │  Dashboards                        │
-│  Banco de dados        │  Automações                        │
-│  Integrações           │  Infraestrutura                    │
-│  Monitoramento         │  Segurança operacional             │
-│  Manutenção            │  Evolução de produtos             │
-└──────────────────────────────────────────────────────────────┘
-```
+SaaS
 
----
+Aplicativos
 
-## Qualidade e segurança
+Dashboards
 
-Trabalhamos para manter os projetos preparados para operação e manutenção de longo prazo.
+Automações
 
-**Princípios técnicos:**
+</td>
+</tr>
+</table>
 
-- código organizado e legível;
-- separação adequada entre front-end, back-end e dados;
-- controle de versão com Git;
-- configuração de ambientes;
-- proteção de credenciais e secrets;
-- validação de entradas e tratamento de erros;
-- documentação técnica;
-- testes sempre que aplicáveis ao projeto;
-- monitoramento e observabilidade para sistemas que exigem operação contínua.
+Stack
 
----
+Front-end
 
-## Estrutura de um projeto Terminal 404
+<p>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=03E9FB" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=03E9FB" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04CEF1" alt="JavaScript">
+</p>
 
-Uma solução pode começar pequena e crescer progressivamente.
+Back-end
 
-```text
-FASE 01  →  Descoberta e requisitos
-FASE 02  →  Arquitetura e planejamento
-FASE 03  →  Design e experiência
-FASE 04  →  Desenvolvimento
-FASE 05  →  Banco de dados e integrações
-FASE 06  →  Testes e validação
-FASE 07  →  Deploy e infraestrutura
-FASE 08  →  Monitoramento e manutenção
-FASE 09  →  Evolução do produto
-```
-
----
-
-## Projetos em destaque
-
-### Kairo
-
-Plataforma de monitoramento de servidores Linux, com coleta de métricas, detecção de eventos, alertas e comunicação segura entre agentes e uma central de gerenciamento.
-
-**Foco:** infraestrutura, observabilidade, segurança operacional, back-end, APIs e banco de dados.
-
-### Soluções Web e Institucionais
-
-Desenvolvimento de sites e aplicações digitais para presença online, comunicação, atendimento, processos internos e necessidades específicas de cada negócio.
-
----
-
-## Identidade Terminal 404
-
-A identidade visual da Terminal 404 combina **tecnologia, contraste e estética neon** em uma linguagem contemporânea e reconhecível.
-
-| Elemento | Referência |
-|---|---|
-| **Base** | `#08090C` |
-| **Ciano** | `#00E5FF` |
-| **Azul** | `#148BFF` |
-| **Rosa Neon** | `#FF00AA` |
-| **Magenta** | `#FF4FCB` |
-| **Estética** | Digital, técnica, neon, minimalista e tecnológica |
-
----
-
-## Visão
-
-Construir software que seja útil hoje e continue fazendo sentido amanhã.
-
-A Terminal 404 trabalha para aproximar **tecnologia, operação e negócio**, criando produtos digitais que possam ser mantidos, aprimorados e preparados para crescer.
-
----
-
-## Contato
-
-**Terminal 404**
-
-Desenvolvimento de software, sites, aplicativos e soluções digitais para empresas.
-
-🌐 **terminal404.com.br**
-
----
+<p>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=03E9FB" alt="PHP">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=04CEF1" alt="Java">
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=03E9FB" alt="Go">
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=04CEF1" alt="Node.js">
+</p>
+
+DevOps & Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/Podman-000000?style=for-the-badge&logo=podman&logoColor=03E9FB" alt="Podman">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04CEF1" alt="Linux">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=03E9FB" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F4FAFA" alt="GitHub">
+</p>
+
+Como trabalhamos
+
+IDEIA
+  │
+  ▼
+REQUISITOS
+  │
+  ▼
+ARQUITETURA
+  │
+  ▼
+DESENVOLVIMENTO
+  │
+  ├── Front-end
+  ├── Back-end
+  └── Dados / Integrações
+  │
+  ▼
+TESTES
+  │
+  ▼
+DEPLOY
+  │
+  ▼
+OPERAÇÃO
+  │
+  ▼
+EVOLUÇÃO
+
+A escolha da tecnologia depende do problema, requisitos, contexto e manutenção do projeto. PHP, Java, Go e Node.js podem ser utilizados conforme a necessidade do produto ou sistema.
+
+Projetos
+
+Entre nossos projetos estão soluções para:
+
+presença digital e sites institucionais;
+
+sistemas administrativos e aplicações web;
+
+produtos SaaS;
+
+aplicativos;
+
+APIs e integrações;
+
+automações;
+
+infraestrutura e monitoramento.
+
+Kairo
+
+Projeto voltado ao monitoramento de servidores, com coleta de métricas, comunicação entre agentes e central, detecção de eventos e alertas operacionais.
+
+Identidade visual
+
+<table>
+<tr>
+<td><b>Fundo</b><br><code>#000000</code></td>
+<td><b>Ciano Neon</b><br><code>#03E9FB</code></td>
+<td><b>Ciano Principal</b><br><code>#04CEF1</code></td>
+<td><b>Ciano Médio</b><br><code>#02A6C5</code></td>
+</tr>
+<tr>
+<td><b>Ciano Escuro</b><br><code>#027A90</code></td>
+<td><b>Azul Tecnológico</b><br><code>#022C3A</code></td>
+<td><b>Branco</b><br><code>#F4FAFA</code></td>
+<td><b>Prata Claro</b><br><code>#AAE1E7</code></td>
+</tr>
+</table>
+
+Princípios técnicos
+
+Código claro.
+Arquitetura coerente.
+Segurança desde o desenvolvimento.
+Infraestrutura organizada.
+Projetos preparados para evolução.
+
+Contato
 
 <div align="center">
 
-### TERMINAL 404
+TERMINAL 404
 
-**Build. Deploy. Evolve.**
+Build. Deploy. Evolve.
+
+🌐 terminal404.com.br
 
 </div>
