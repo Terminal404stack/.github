@@ -1,0 +1,86 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#000000"/>
+    <stop offset="0.55" stop-color="#022C3A"/>
+    <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="120" y1="80" x2="1040" y2="280" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#03E9FB"/>
+    <stop offset="0.5" stop-color="#04CEF1"/>
+    <stop offset="1" stop-color="#02A6C5"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" stroke="#AAE1E7" stroke-opacity="0.07" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="orb1" cx="0" cy="0" r="1" gradientTransform="translate(990 80) rotate(135) scale(260 260)">
+    <stop stop-color="#03E9FB" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#03E9FB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orb2" cx="0" cy="0" r="1" gradientTransform="translate(180 300) rotate(-40) scale(260 260)">
+    <stop stop-color="#04CEF1" stop-opacity="0.12"/>
+    <stop offset="1" stop-color="#04CEF1" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<rect width="1200" height="360" rx="28" fill="url(#orb1)"/>
+<rect width="1200" height="360" rx="28" fill="url(#orb2)"/>
+
+<!-- Neon frame -->
+<rect x="18" y="18" width="1164" height="324" rx="22" stroke="#03E9FB" stroke-opacity="0.7" stroke-width="2"/>
+<rect x="30" y="30" width="1140" height="300" rx="18" stroke="#04CEF1" stroke-opacity="0.18" stroke-width="1"/>
+
+<!-- Circuit traces -->
+<g stroke="url(#cyan)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity="0.88">
+  <path d="M70 92H180V62H258"/>
+  <circle cx="70" cy="92" r="4" fill="#03E9FB"/>
+  <circle cx="258" cy="62" r="4" fill="#03E9FB"/>
+  <path d="M1120 108H1010V74H944"/>
+  <circle cx="1120" cy="108" r="4" fill="#03E9FB"/>
+  <circle cx="944" cy="74" r="4" fill="#03E9FB"/>
+
+  <path d="M88 276H210V308H308"/>
+  <circle cx="88" cy="276" r="4" fill="#03E9FB"/>
+  <circle cx="308" cy="308" r="4" fill="#03E9FB"/>
+  <path d="M1112 278H1012V304H910"/>
+  <circle cx="1112" cy="278" r="4" fill="#03E9FB"/>
+  <circle cx="910" cy="304" r="4" fill="#03E9FB"/>
+</g>
+
+<!-- Minimal terminal motif -->
+<g opacity="0.78">
+  <rect x="78" y="132" width="170" height="86" rx="12" stroke="#AAE1E7" stroke-opacity="0.24"/>
+  <circle cx="96" cy="150" r="4" fill="#03E9FB"/>
+  <circle cx="111" cy="150" r="4" fill="#04CEF1"/>
+  <circle cx="126" cy="150" r="4" fill="#02A6C5"/>
+  <path d="M102 181L116 193L102 205" stroke="#03E9FB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 205H157" stroke="#F4FAFA" stroke-opacity="0.8" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<!-- Main text -->
+<text x="600" y="152" text-anchor="middle" fill="#F4FAFA" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="5">
+  TERMINAL 404
+</text>
+<text x="600" y="198" text-anchor="middle" fill="#03E9FB" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="4">
+  TECHNOLOGY • WEB • SOFTWARE • SAAS
+</text>
+<text x="600" y="238" text-anchor="middle" fill="#AAE1E7" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.6">
+  Front-end • Back-end • Aplicativos • DevOps • Sistemas
+</text>
+
+<!-- Bottom status line -->
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.4">
+  <text x="72" y="316" fill="#03E9FB">SYSTEM</text>
+  <text x="129" y="316" fill="#F4FAFA" fill-opacity="0.75">ONLINE</text>
+  <text x="1032" y="316" fill="#03E9FB">BUILD / DEPLOY / EVOLVE</text>
+</g>
+</svg>
